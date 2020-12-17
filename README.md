@@ -20,3 +20,11 @@ from the html files,beautifies it.
 
 
 5)This process repeats until we find 1000(can be given as sys argument) covid related urls.
+
+Results & Analysis:
+Tried checking for urls for almost 3hrs on a 16GB RAM GPU based machine.
+Most of the links were Chinese or Russian spam links. do I couldn't find much information there
+
+Checked the functions for a custom list of covid urls and the code detects them well.
+
+Edit:I will be uploading some screenshots soon
